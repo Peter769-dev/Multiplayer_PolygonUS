@@ -179,7 +179,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   handPoint: {fileID: 8221822910654305075}
-  throwForce: 10
+  throwForce: 20
 --- !u!114 &3154466237887142574
 MonoBehaviour:
   m_ObjectHideFlags: 0
